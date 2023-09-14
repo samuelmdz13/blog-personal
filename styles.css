@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2? family= Black+Ops+One & family= Poppins:wght@600 & display=swap');
 body{
-    background-image: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url("/IMAGEN/collage-fondo-programacion.jpg");
+    background-image: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url("./IMAGEN/collage-fondo-programacion.jpg");
     background-size: cover;
     font-family: 'Black Ops One', cursive;
     
